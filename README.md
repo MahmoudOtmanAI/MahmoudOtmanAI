@@ -1,87 +1,422 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<div align="center">
 
+# 👋 Hi, I'm Mahmoud Othman
 
-<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
-<h3>Things I code with</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+### 🚀 AI Automation Engineer • n8n Developer • AI Agent Builder
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Building+AI+Automation+Systems;Creating+Powerful+n8n+Workflows;Developing+Advanced+AI+Agents;Automating+Businesses+with+AI;Turning+Ideas+into+Automation"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Mahmoud%20Othman&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+
+<p align="center">
+
+AI Automation • AI Agents • n8n • LLMs • APIs • Business Automation
+
 </p>
-<h3>Open source projects</h3>
+
+<p align="center">
+
+<a href="https://github.com/MahmoudOtmanAI">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=MahmoudOtmanAI&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Freelance-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Remote-blue?style=for-the-badge"/>
+
+</p>
+
+</div>
+
+---
+
+# ⚡ About Me
+
+I'm an AI Automation Engineer specializing in building intelligent automation systems using modern AI technologies.
+
+My mission is simple:
+
+> Automate everything that wastes human time.
+
+I design scalable automation solutions that connect businesses with AI through workflows, APIs, Large Language Models, and intelligent agents.
+
+### 🔥 I specialize in
+
+- 🤖 AI Agents
+- ⚡ n8n Automation
+- 💬 WhatsApp Automation
+- 📧 Email Automation
+- 📄 OCR Automation
+- 🧠 RAG Systems
+- 🌐 REST APIs
+- 🔗 Webhooks
+- 📊 CRM Automation
+- 📅 Google Workspace Automation
+- 🛒 E-commerce Automation
+- 🏢 Internal Business Automation
+
+---
+
+# 🚀 What I Build
+
+✅ AI Employees
+
+✅ AI Customer Support
+
+✅ AI Receptionists
+
+✅ AI Sales Agents
+
+✅ AI Lead Qualification
+
+✅ WhatsApp AI Bots
+
+✅ Email Automation
+
+✅ CRM Automation
+
+✅ Workflow Automation
+
+✅ PDF AI Processing
+
+✅ Knowledge Base Chatbots
+
+✅ Appointment Booking Systems
+
+---
+
+# 🛠 Tech Stack
+
+## AI
+
+![](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+
+![](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+
+![](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge)
+
+![](https://img.shields.io/badge/Grok-black?style=for-the-badge)
+
+![](https://img.shields.io/badge/OpenRouter-7B68EE?style=for-the-badge)
+
+![](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge)
+
+![](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
+
+---
+
+## Automation
+
+![](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n)
+
+![](https://img.shields.io/badge/Webhooks-green?style=for-the-badge)
+
+![](https://img.shields.io/badge/REST%20API-blue?style=for-the-badge)
+
+![](https://img.shields.io/badge/JSON-black?style=for-the-badge)
+
+![](https://img.shields.io/badge/HTTP-orange?style=for-the-badge)
+
+---
+
+## Databases
+
+![](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+
+![](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge)
+
+![](https://img.shields.io/badge/Firebase-orange?style=for-the-badge)
+
+![](https://img.shields.io/badge/Redis-red?style=for-the-badge)
+
+![](https://img.shields.io/badge/Pinecone-black?style=for-the-badge)
+
+![](https://img.shields.io/badge/Qdrant-red?style=for-the-badge)
+
+---
+
+## Google
+
+![](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)
+
+![](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge)
+
+![](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge)
+
+![](https://img.shields.io/badge/Google%20Calendar-4285F4?style=for-the-badge)
+
+---
+
+## Communication
+
+![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp)
+
+![](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge)
+
+![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge)
+
+![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge)
+
+---
+
+## Development
+
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+
+![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
+
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge)
+
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
+
+![](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+
+![](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge)
+
+---
+
+# 💼 Services
+
+- AI Automation
+- AI Agents
+- n8n Workflows
+- Business Automation
+- CRM Automation
+- Lead Generation Automation
+- WhatsApp Bots
+- AI Chatbots
+- API Integration
+- AI Consulting
+- Document Automation
+- OCR Systems
+- AI Dashboards
+- Internal Company Automation
+- Workflow Optimization
+---
+
+# 🚀 Featured AI Automation Projects
+
 <table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
+<tr>
+<td width="50%">
+
+## 🤖 AI Customer Support Agent
+
+- GPT-4 / OpenAI
+- n8n Automation
+- Memory
+- Knowledge Base
+- Human Handoff
+- WhatsApp Integration
+
+</td>
+
+<td width="50%">
+
+## 🦷 Dental Clinic Automation
+
+- Appointment Booking
+- WhatsApp Reminders
+- Google Calendar
+- CRM Sync
+- AI Receptionist
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 📧 AI Email Assistant
+
+- Auto Classification
+- AI Reply Generation
+- Gmail Automation
+- Slack Notifications
+- Smart Labels
+
+</td>
+
+<td width="50%">
+
+## 📄 AI OCR Workflow
+
+- PDF Processing
+- OCR Extraction
+- AI Structuring
+- Google Sheets Export
+- Database Storage
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 💼 CRM Automation
+
+- Lead Qualification
+- Pipeline Updates
+- AI Follow-up
+- Sales Automation
+- Reporting
+
+</td>
+
+<td width="50%">
+
+## 🛒 E-Commerce Automation
+
+- Order Processing
+- Customer Notifications
+- Inventory Sync
+- Invoice Generation
+- AI Support
+
+</td>
+</tr>
 </table>
-<h3>My latest posts</h3>
-<ul>
-  <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
-  <li><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How to Create a Self-Updating README.md for Your GitHub Profile</b></a><br/><i>A good tutorial to do your first steps with GitHub Actions</i></li>
-    <li><a href="https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How You Should Structure Your React Applications</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
-  <li><a href="https://medium.com/better-programming/pro-tips-to-help-you-get-started-with-your-side-project-15d01b76e0d8"><b>Pro Tips to Help You Get Started With Your Side Project</b></a><br/><i>Begin with solid foundations to keep the excitement kicking in...</i></li>
-  <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>How to Take Care of Your Personal Branding as a Programmer</b></a><br/><i>It’s more than just refreshing your resume</i></li>
-  <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li>
-</ul>
-<h3>Välkommen till <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> Stockholm!</h3>
-<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Currently, the weather is: <b> 4°C, <i>clear sky</i></b></br>Today, the sun rises at <b>06:39</b> and sets at <b>17:20</b>.</p>
-<h3>Where to find me</h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+
+---
+
+# 🧠 AI Automation Architecture
+
+```mermaid
+flowchart LR
+
+A[Client]
+-->B[WhatsApp]
+
+B-->C[n8n]
+
+C-->D[OpenAI]
+
+D-->E[AI Agent]
+
+E-->F[Memory]
+
+F-->G[Knowledge Base]
+
+G-->H[CRM]
+
+H-->I[Google Sheets]
+
+I-->J[Slack]
+
+J-->K[Email]
+
+K-->L[Dashboard]
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MahmoudOtmanAI&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudOtmanAI&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 3 March, 07:01 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
+---
 
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudOtmanAI&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MahmoudOtmanAI&theme=tokyonight&no-frame=true&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudOtmanAI&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/MahmoudOtmanAI/MahmoudOtmanAI/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+> **Note:** You'll need to enable a GitHub Action to generate the snake animation.
+
+---
+
+# 🎯 Current Focus
+
+- 🤖 Enterprise AI Agents
+- ⚡ Advanced n8n Automation
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 🔍 Vector Databases
+- 🌐 MCP (Model Context Protocol)
+- 📈 Business Process Optimization
+- ☁️ Cloud Deployments
+- 🔗 API Integrations
+
+---
+
+# 💡 Core Values
+
+- Build once, automate forever.
+- Simplicity scales.
+- AI should solve real business problems.
+- Every repetitive task deserves automation.
+- Focus on impact, not complexity.
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/MahmoudOtmanAI">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+# 🚀 Let's Build the Future with AI Automation
+
+*"Automation is not about replacing people — it's about empowering them to do what matters most."*
+
+⭐ **If you like my work, consider following my journey and exploring my repositories.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+
+</div>
